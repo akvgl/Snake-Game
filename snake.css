@@ -1,0 +1,38 @@
+body
+{
+    text-align: center;
+    background-color: rgb(224, 230, 205);
+}
+
+.display
+{
+    border: red 3px solid;
+}
+
+.score
+{
+    font: bold;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.refresh
+{
+    font: bold;
+    font-weight: bold;
+    font-size: x-large;
+    color: red;
+    text-align: center;
+    background-color: black;
+    border: red 3px solid;
+    margin-top: 0.5cm;
+    height: 2cm;
+    width: 4cm;     
+}
+
+.refresh:hover
+{
+    color: black;
+    background-color: red;
+    border: black 3px solid;
+}
